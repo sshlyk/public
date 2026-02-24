@@ -1,0 +1,88 @@
+ScoreSnob Privacy Policy
+Last updated: February 24, 2026
+
+This Privacy Policy describes how ScoreSnob collects, uses, and safeguards your information when you use our mobile application (the "App"). By accessing or using ScoreSnob, you agree to the practices detailed below. If you do not agree with these terms, please refrain from using the App.
+
+1. Information Collection
+a. Usage & Device Information
+
+We automatically collect data regarding your interactions with the App to ensure functionality and improve performance:
+
+Device Details: Hardware model, operating system, and app version.
+
+Usage Metrics: Features accessed, screen views, and system crash reports.
+
+Engagement Data: Specific actions taken, such as button selections or use of the identification feature.
+
+Preference Data: Media identification history used to understand content interests and refine recommendations.
+
+Authentication: We use Firebase for anonymous authentication. This allows for personalized settings without requiring your identity.
+
+b. Media Data
+
+To provide our core identification services for movies, TV shows, we collect:
+
+Submitted Visuals: Images you upload for analysis. These are processed via AI and machine learning and are not stored beyond the active identification session.
+
+c. Inferred Data
+
+We may infer preferences (such as favorite genres or actors) based on your usage patterns to further personalize your in-app experience.
+
+d. Device Permissions
+
+The App requests specific permissions to function:
+
+Camera: To allow you to capture images or video clips for media identification.
+
+Note: These permissions are used strictly for their stated purpose, and no data is accessed without your explicit consent.
+
+2. How We Use Your Information
+We process your data to provide a seamless and personalized experience:
+
+Core Functionality: Operating and maintaining the App’s identification features.
+
+Personalization: Tailoring content recommendations based on your history.
+
+Support: Responding to your feedback, inquiries, or technical issues.
+
+Analytics: Monitoring usage patterns and fixing bugs via Firebase Analytics and Crashlytics.
+
+Advertising: Displaying relevant ads through third-party networks (e.g., Google AdMob), which may use device identifiers to personalize content.
+
+Security: Detecting and preventing fraudulent or illegal activity.
+
+3. Third-Party Service Providers
+We collaborate with select third parties to provide essential services:
+
+AI & Cloud Services: For processing and identifying media in uploaded images.
+
+Firebase: For data storage, anonymous authentication, and usage analytics.
+
+Crashlytics: For gathering anonymous data to improve app stability.
+
+Ad Networks: Partners like Google AdMob may collect device identifiers to serve personalized advertisements.
+
+These third parties are contractually obligated to handle your data securely and are prohibited from using it for any purpose other than performing tasks on our behalf.
+
+4. Data Retention & Security
+Retention: Media data (uploaded pictures) is processed temporarily and deleted immediately after identification. Usage and preference data are retained only as long as necessary to fulfill the purposes outlined in this policy.
+
+Security: We employ industry-standard technical measures to protect your data. However, please be aware that no digital transmission or storage method is 100% secure.
+
+5. Children’s Privacy
+ScoreSnob is not intended for individuals under 13 years of age. We do not knowingly collect personal information from children. If we discover such data has been collected, we will delete it promptly.
+
+6. Your Rights & Choices
+Access & Deletion: You may contact us to request access to, correction of, or deletion of your data.
+
+Ad Preferences: You can opt-out of personalized advertising via your mobile device settings.
+
+Permission Management: You can revoke camera or data permissions at any time through your device settings, though this may disable certain App features.
+
+California Privacy Rights (CCPA)
+
+California residents have the right to know what personal information is collected and to request its deletion. ScoreSnob does not sell your personal information.
+
+7. Changes to This Policy
+We may update this Privacy Policy periodically. Changes will be reflected by updating the "Last updated" date at the top of this page. Continued use of the App following an update signifies your acceptance of the revised terms.
+
